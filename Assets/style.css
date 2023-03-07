@@ -10,3 +10,7 @@ button {
     cursor: pointer;
     margin: 0 45%;
 }
+
+.hide-element {
+    display: none;
+}
